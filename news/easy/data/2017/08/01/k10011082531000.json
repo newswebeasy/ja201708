@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011082531000.mp3", 
+  "title": "冷凍の牛肉の関税が８月１日から上がる", 
+  "news_prearranged_time": "2017-08-01 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>に<ruby>輸入<rt>ゆにゅう</rt></ruby>した<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>冷凍<rt>れいとう</rt></ruby></a>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>より１７％<ruby>以上<rt>いじょう</rt></ruby><ruby>多<rt>おお</rt></ruby>くなりました。", 
+  "news_web_movie_uri": "k10011082531_201708010529_201708010540.mp4", 
+  "title_with_ruby": "<ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<ruby>関税<rt>かんぜい</rt></ruby>が８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる", 
+  "news_id": "k10011082531000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170801/../20170801/K10011082531_1708010529_1708010540_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

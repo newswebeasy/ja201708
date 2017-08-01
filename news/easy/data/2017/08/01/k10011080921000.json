@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011080921000.mp3", 
+  "title": "大学に進みたい高校生に大学が説明をするイベント", 
+  "news_prearranged_time": "2017-08-01 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るための<ruby>試験<rt>しけん</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby><ruby>行<rt>おこな</rt></ruby>うことが<ruby>多<rt>おお</rt></ruby>いため、<ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>進<rt>すす</rt></ruby>みたい<ruby>大学<rt>だいがく</rt></ruby>を<ruby>夏休<rt>なつやす</rt></ruby>みごろから<ruby>決<rt>き</rt></ruby>めます。", 
+  "news_web_movie_uri": "k10011080921_201707302016_201707302018.mp4", 
+  "title_with_ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>進<rt>すす</rt></ruby>みたい<ruby>高校生<rt>こうこうせい</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>が<ruby>説明<rt>せつめい</rt></ruby>をするイベント", 
+  "news_id": "k10011080921000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170730/../20170730/K10011080921_1707302015_1707302018_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
