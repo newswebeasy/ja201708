@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011082511000.mp3", 
+  "title": "奈良市の郊外で畑の野菜を食べる鹿を捕まえる", 
+  "news_prearranged_time": "2017-08-02 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>など<ruby>奈良市<rt>ならし</rt></ruby>にいる<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>鹿<rt>しか</rt></ruby></a>は、１９５７<ruby>年<rt>ねん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby></a>になって、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>守<rt>まも</rt></ruby>ら</a>れています。", 
+  "news_web_movie_uri": "k10011082511_201708010538_201708010541.mp4", 
+  "title_with_ruby": "<ruby>奈良市<rt>ならし</rt></ruby>の<ruby>郊外<rt>こうがい</rt></ruby>で<ruby>畑<rt>はたけ</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>鹿<rt>しか</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえる", 
+  "news_id": "k10011082511000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170731/../20170731/K10011082511_1707312300_1708010522_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

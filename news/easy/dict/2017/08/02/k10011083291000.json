@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "論文"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を<ruby><rb>比較</rb><rt>ひかく</rt></ruby>して、わかりやすいように<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>図表</rb><rt>ずひょう</rt></ruby>。<ruby><rb>円</rb><rt>えん</rt></ruby>グラフ・<ruby><rb>棒</rb><rt>ぼう</rt></ruby>グラフなど。",
+          "hyouki": [
+            "グラフ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>。<ruby><rb>画報</rb><rt>がほう</rt></ruby>。",
+          "hyouki": [
+            "グラフ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>となる。ちがえる。",
+          "hyouki": [
+            "間違える"
+          ]
+        },
+        {
+          "def": "とりちがえてしくじる。",
+          "hyouki": [
+            "間違える"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>ったり、<ruby><rb>決</rb><rt>き</rt></ruby>めたりしたことを、なかったことにする。",
+          "hyouki": [
+            "取り消す"
+          ]
+        }
+      ]
+    }
+  }
+}

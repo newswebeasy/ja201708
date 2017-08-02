@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011083221000.mp3", 
+  "title": "「東京オリンピックとパラリンピックのマスコットを考えて」", 
+  "news_prearranged_time": "2017-08-02 16:35:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0001'>パラリンピック</a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>マスコット</a>は、みんなから<a href='javascript:void(0)' class='dicWin' id='id-0003'>デザイン</a>を<ruby>集<rt>あつ</rt></ruby>めて、その<ruby>中<rt>なか</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>小学生<rt>しょうがくせい</rt></ruby></a>などが<ruby>選<rt>えら</rt></ruby>んで<ruby>決<rt>き</rt></ruby>めます。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "「<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピックのマスコットを<ruby>考<rt>かんが</rt></ruby>えて」", 
+  "news_id": "k10011083221000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170801/../20170801/K10011083221_1708011423_1708011510_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
