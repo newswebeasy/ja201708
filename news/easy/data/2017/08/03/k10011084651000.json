@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011084651000.mp3", 
+  "title": "上野動物園のパンダの赤ちゃん　両方の目が開く", 
+  "news_prearranged_time": "2017-08-03 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>パンダ</a>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。", 
+  "news_web_movie_uri": "k10011084651_201708022109_201708022111.mp4", 
+  "title_with_ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダの<ruby>赤<rt>あか</rt></ruby>ちゃん　<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>目<rt>め</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>く", 
+  "news_id": "k10011084651000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170802/../20170802/K10011084651_1708022109_1708022112_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

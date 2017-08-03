@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011085511000.mp3", 
+  "title": "ハワイ　歩きながらスマートフォンを見ることが禁止になる", 
+  "news_prearranged_time": "2017-08-03 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>ホノルル<ruby>市<rt>し</rt></ruby>では１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っているときに、スマートフォンやコンピューターなどを<ruby>見<rt>み</rt></ruby>たり<ruby>触<rt>さわ</rt></ruby>ったりすることが<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>禁止<rt>きんし</rt></ruby></a>になります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ハワイ　<ruby>歩<rt>ある</rt></ruby>きながらスマートフォンを<ruby>見<rt>み</rt></ruby>ることが<ruby>禁止<rt>きんし</rt></ruby>になる", 
+  "news_id": "k10011085511000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170803/../20170803/K10011085511_1708030938_1708030941_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}
