@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>大臣</rb><rt>だいじん</rt></ruby>たちの<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>政府</rb><rt>せいふ</rt></ruby>。",
+          "hyouki": [
+            "内閣"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "国民"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>信</rb><rt>しん</rt></ruby>じて<ruby><rb>疑</rb><rt>うたが</rt></ruby>わないこと。",
+          "hyouki": [
+            "信用"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>から<ruby><rb>信</rb><rt>しん</rt></ruby>じられていること。",
+          "hyouki": [
+            "信用"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>行</rb><rt>おこな</rt></ruby>いをふり<ruby><rb>返</rb><rt>かえ</rt></ruby>って、よく<ruby><rb>考</rb><rt>かんが</rt></ruby>えてみること。",
+          "hyouki": [
+            "反省"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

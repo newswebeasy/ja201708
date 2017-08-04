@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011085581000.mp3", 
+  "title": "アメリカ　社員の手の中に情報が入ったチップを入れる", 
+  "news_prearranged_time": "2017-08-04 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカのウィスコンシン<ruby>州<rt>しゅう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>注射<rt>ちゅうしゃ</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>器<rt>き</rt></ruby></a>を<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>社員<rt>しゃいん</rt></ruby></a>の<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<a href='javascript:void(0)' class='dicWin' id='id-0002'>チップ</a>を<ruby>入<rt>い</rt></ruby>れることにしました。", 
+  "news_web_movie_uri": "k10011085581_201708030651_201708030651.mp4", 
+  "title_with_ruby": "アメリカ　<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったチップを<ruby>入<rt>い</rt></ruby>れる", 
+  "news_id": "k10011085581000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170803/../20170803/K10011085581_1708030651_1708030651_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

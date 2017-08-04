@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>刻</rb><rt>きざ</rt></ruby>んだ<ruby><rb>木材</rb><rt>もくざい</rt></ruby>。",
+          "hyouki": [
+            "チップ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>果物</rb><rt>くだもの</rt></ruby>をうすく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。チップス。",
+          "hyouki": [
+            "チップ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>IC</rb><rt>アイシー</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>みこんだ<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さなケース。",
+          "hyouki": [
+            "チップ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "器"
+          ]
+        },
+        {
+          "def": "<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "器"
+          ]
+        },
+        {
+          "def": "<ruby><rb>才能</rb><rt>さいのう</rt></ruby>。",
+          "hyouki": [
+            "器"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きるためのはたらきをするもの。",
+          "hyouki": [
+            "器"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "コンピューターやネットワークなどへ<ruby><rb>接続</rb><rt>せつぞく</rt></ruby>すること。ログオン。",
+          "hyouki": [
+            "ログイン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ]
+    }
+  }
+}

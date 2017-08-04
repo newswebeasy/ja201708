@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>のことに<ruby><rb>心</rb><rt>こころ</rt></ruby>がひかれる。したわしい。",
+          "hyouki": [
+            "懐かしい"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "展示"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>録音</rb><rt>ろくおん</rt></ruby>または<ruby><rb>録画</rb><rt>ろくが</rt></ruby>テープを<ruby><rb>収</rb><rt>おさ</rt></ruby>めてあるケース。そのまま<ruby><rb>機械</rb><rt>きかい</rt></ruby>への<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れができる。",
+          "hyouki": [
+            "カセット"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を、<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        },
+        {
+          "def": "レコードプレーヤーなどのこと。",
+          "hyouki": [
+            "プレーヤー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などの<ruby><rb>音声情報</rb><rt>おんせいじょうほう</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>にして<ruby><rb>記録</rb><rt>きろく</rt></ruby>した<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>。",
+          "hyouki": [
+            "CD"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "レコードやテープなどに<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>収</rb><rt>おさ</rt></ruby>めること。また、その<ruby><rb>音</rb><rt>おと</rt></ruby>。",
+          "hyouki": [
+            "録音"
+          ]
+        }
+      ]
+    }
+  }
+}

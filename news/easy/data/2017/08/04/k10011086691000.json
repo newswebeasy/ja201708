@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011086691000.mp3", 
+  "title": "東京の築地場外市場で火事　けがをした人はいなかった", 
+  "news_prearranged_time": "2017-08-04 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>築地<rt>つきじ</rt></ruby>にある<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>市場<rt>いちば</rt></ruby></a>の<ruby>隣<rt>となり</rt></ruby>に「<ruby>築地場外市場<rt>つきじじょうがいしじょう</rt></ruby>」があります。", 
+  "news_web_movie_uri": "k10011086691_201708040807_201708040808.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>築地場外市場<rt>つきじじょうがいしじょう</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>　けがをした<ruby>人<rt>ひと</rt></ruby>はいなかった", 
+  "news_id": "k10011086691000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170804/../20170804/K10011086691_1708040807_1708040809_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
