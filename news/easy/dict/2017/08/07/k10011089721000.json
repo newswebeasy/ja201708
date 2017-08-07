@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>七月七日</rb><rt>しちがつなのか</rt></ruby>の<ruby><rb>夜</rb><rt>よる</rt></ruby>、<ruby><rb>天</rb><rt>あま</rt></ruby>の<ruby><rb>川</rb><rt>がわ</rt></ruby>をはさんで、<ruby><rb>牽牛星</rb><rt>けんぎゅうせい</rt></ruby>と、<ruby><rb>織女星</rb><rt>しょくじょせい</rt></ruby>が<ruby><rb>一年</rb><rt>いちねん</rt></ruby>ぶりで<ruby><rb>会</rb><rt>あ</rt></ruby>うという<ruby><rb>伝説</rb><rt>でんせつ</rt></ruby>から<ruby><rb>起</rb><rt>お</rt></ruby>こった<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。ササをかざり、たんざくに<ruby><rb>願</rb><rt>ねが</rt></ruby>いごとなどを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。<ruby><rb>星祭</rb><rt>ほしまつ</rt></ruby>り。",
+          "hyouki": [
+            "七夕"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>色紙</rb><rt>いろがみ</rt></ruby>を<ruby><rb>折</rb><rt>お</rt></ruby>って、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "折り紙"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らす<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>渡</rb><rt>わた</rt></ruby>り<ruby><rb>鳥</rb><rt>どり</rt></ruby>。<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>とくちばしが<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、めでたい<ruby><rb>鳥</rb><rt>とり</rt></ruby>として<ruby><rb>知</rb><rt>し</rt></ruby>られている。",
+          "hyouki": [
+            "鶴"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>商店</rb><rt>しょうてん</rt></ruby>がたくさん<ruby><rb>並</rb><rt>なら</rt></ruby>んでいる<ruby><rb>通</rb><rt>とお</rt></ruby>り。",
+          "hyouki": [
+            "商店街"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>輪</rb><rt>わ</rt></ruby>に<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>布</rb><rt>ぬの</rt></ruby>をつけ、それをさおの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、<ruby><rb>風</rb><rt>かぜ</rt></ruby>になびかせるもの。<ruby><rb>昔</rb><rt>むかし</rt></ruby>は、いくさで<ruby><rb>目</rb><rt>め</rt></ruby>じるしに<ruby><rb>使</rb><rt>つか</rt></ruby>ったが、<ruby><rb>今</rb><rt>いま</rt></ruby>は、こいのぼりといっしょにあげたり、<ruby><rb>風向</rb><rt>かざむ</rt></ruby>きを<ruby><rb>調</rb><rt>しら</rt></ruby>べたりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "吹き流し"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>や、<ruby><rb>俳句</rb><rt>はいく</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "短冊"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ]
+    }
+  }
+}
