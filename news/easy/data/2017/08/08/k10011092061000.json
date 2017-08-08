@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011092061000.mp3", 
+  "title": "ｉＰＳ細胞を使って血液製剤を作ることに成功する", 
+  "news_prearranged_time": "2017-08-08 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>手術<rt>しゅじゅつ</rt></ruby></a>で<ruby>出<rt>で</rt></ruby>た<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>血液<rt>けつえき</rt></ruby></a>を<ruby>止<rt>と</rt></ruby>めるときなどに<ruby>使<rt>つか</rt></ruby>う<ruby>薬<rt>くすり</rt></ruby>の「<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>」は、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>健康<rt>けんこう</rt></ruby></a>な<ruby>人<rt>ひと</rt></ruby>からもらった<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>血液<rt>けつえき</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>血小板<rt>けっしょうばん</rt></ruby></a>から<ruby>作<rt>つく</rt></ruby>ります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ｉＰＳ<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることに<ruby>成功<rt>せいこう</rt></ruby>する", 
+  "news_id": "k10011092061000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170807/../20170807/K10011092061_1708080014_1708080014_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

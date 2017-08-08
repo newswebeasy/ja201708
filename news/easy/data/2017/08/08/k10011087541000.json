@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011087541000.mp3", 
+  "title": "トヨタ自動車とマツダが一緒に電気自動車を作る", 
+  "news_prearranged_time": "2017-08-08 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>とマツダは、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る「<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>」などを<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>るため、<a href='javascript:void(0)' class='dicWin' id='id-0000'>それぞれ</a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>相手<rt>あいて</rt></ruby></a>の<ruby>会社<rt>かいしゃ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>株式<rt>かぶしき</rt></ruby></a>を<ruby>買<rt>か</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>協力<rt>きょうりょく</rt></ruby></a>することにしました。", 
+  "news_web_movie_uri": "k10011087541_201708041805_201708041805.mp4", 
+  "title_with_ruby": "トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>とマツダが<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る", 
+  "news_id": "k10011087541000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170804/../20170804/K10011087541_1708041719_1708041720_01_02.jpg?utm_int=nsearch_contents_search-items_004", 
+  "news_easy_movie_uri": "''"
+}

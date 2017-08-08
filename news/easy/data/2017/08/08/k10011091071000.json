@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011091071000.mp3", 
+  "title": "乗る前に料金を決めるタクシーの実験が東京都で始まる", 
+  "news_prearranged_time": "2017-08-08 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>のタクシーは<ruby>乗<rt>の</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>距離<rt>きょり</rt></ruby></a>と<ruby>時間<rt>じかん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>料金<rt>りょうきん</rt></ruby></a>が<ruby>変<rt>か</rt></ruby>わるため、<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にはいくら<ruby>払<rt>はら</rt></ruby>うかわかりません。", 
+  "news_web_movie_uri": "k10011091071_201708071837_201708071838.mp4", 
+  "title_with_ruby": "<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるタクシーの<ruby>実験<rt>じっけん</rt></ruby>が<ruby>東京都<rt>とうきょうと</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_id": "k10011091071000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170807/../20170807/K10011091071_1708071837_1708071838_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
