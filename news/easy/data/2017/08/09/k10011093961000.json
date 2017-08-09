@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011093961000.mp3", 
+  "title": "台風５号　調べ始めてから３番目に長く続いた台風になる", 
+  "news_prearranged_time": "2017-08-09 16:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>７<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>太平洋<rt>たいへいよう</rt></ruby></a>で<ruby>生<rt>う</rt></ruby>まれた<ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<ruby>北<rt>きた</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>みました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>　<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めてから３<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>いた<ruby>台風<rt>たいふう</rt></ruby>になる", 
+  "news_id": "k10011093961000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170809/../20170809/K10011093961_1708091352_1708091354_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

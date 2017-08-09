@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011091641000.mp3", 
+  "title": "文部科学省「夜間中学を都道府県に１つ以上作ってほしい」", 
+  "news_prearranged_time": "2017-08-09 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>」は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>で<ruby>夜<rt>よる</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>をするクラスで、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>できなかった<ruby>人<rt>ひと</rt></ruby>や、<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもなどが<ruby>勉強<rt>べんきょう</rt></ruby>しています。", 
+  "news_web_movie_uri": "k10011091641_201708071941_201708071941.mp4", 
+  "title_with_ruby": "<ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>「<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>を<ruby>都道府県<rt>とどうふけん</rt></ruby>に１つ<ruby>以上<rt>いじょう</rt></ruby><ruby>作<rt>つく</rt></ruby>ってほしい」", 
+  "news_id": "k10011091641000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170807/../20170807/K10011091641_1708071941_1708071941_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

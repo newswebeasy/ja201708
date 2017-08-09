@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>が<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>水玉</rb><rt>みずたま</rt></ruby>となり、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くにけむりのようにうかんだもの。うすいものを「もや」、また、<ruby><rb>春</rb><rt>はる</rt></ruby>のものを「かすみ」ということがある。",
+          "hyouki": [
+            "霧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>玉</rb><rt>たま</rt></ruby>。",
+          "hyouki": [
+            "霧"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>腰</rb><rt>こし</rt></ruby>かけ。<ruby><rb>長</rb><rt>なが</rt></ruby>いす。",
+          "hyouki": [
+            "ベンチ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などで、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>・<ruby><rb>監督</rb><rt>かんとく</rt></ruby>のいる<ruby><rb>席</rb><rt>せき</rt></ruby>。また、<ruby><rb>作戦</rb><rt>さくせん</rt></ruby>を<ruby><rb>指示</rb><rt>しじ</rt></ruby>する<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・コーチ。",
+          "hyouki": [
+            "ベンチ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。",
+          "hyouki": [
+            "熱中症"
+          ]
+        }
+      ]
+    }
+  }
+}

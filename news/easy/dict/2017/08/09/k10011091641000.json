@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。",
+          "hyouki": [
+            "文部科学省"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区切</rb><rt>くぎ</rt></ruby>りの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>と<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>がある。",
+          "hyouki": [
+            "府"
+          ]
+        },
+        {
+          "def": "みやこ。<ruby><rb>中心地</rb><rt>ちゅうしんち</rt></ruby>。",
+          "hyouki": [
+            "府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれていて、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>について<ruby><rb>相談</rb><rt>そうだん</rt></ruby>し、<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>委員会</rb><rt>いいんかい</rt></ruby>。",
+          "hyouki": [
+            "教育委員会"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>のありさまを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>人口</rb><rt>じんこう</rt></ruby>などを<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>いっせいに<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "国勢調査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        },
+        {
+          "def": "あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        }
+      ]
+    }
+  }
+}

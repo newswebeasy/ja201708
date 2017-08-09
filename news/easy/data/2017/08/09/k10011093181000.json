@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011093181000.mp3", 
+  "title": "東京の大学で力士たちが相撲を見せる", 
+  "news_prearranged_time": "2017-08-09 16:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>大相撲<rt>おおずもう</rt></ruby></a>では、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>などで<ruby>行<rt>おこな</rt></ruby>う<ruby>試合<rt>しあい</rt></ruby>のほかに、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>力士<rt>りきし</rt></ruby></a>たちがいろいろな<ruby>町<rt>まち</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>相撲<rt>すもう</rt></ruby></a>を<ruby>見<rt>み</rt></ruby>せて、みんなに<ruby>楽<rt>たの</rt></ruby>しんでもらっています。", 
+  "news_web_movie_uri": "k10011093181_201708081846_201708081847.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>で<ruby>力士<rt>りきし</rt></ruby>たちが<ruby>相撲<rt>すもう</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる", 
+  "news_id": "k10011093181000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170808/../20170808/K10011093181_1708081846_1708081848_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
