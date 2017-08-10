@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011094771000.mp3", 
+  "title": "１８歳と１９歳の１４％が「戦争が終わった日を知らない」", 
+  "news_prearranged_time": "2017-08-10 16:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>ＮＨＫは６<ruby>月<rt>がつ</rt></ruby>〜７<ruby>月<rt>がつ</rt></ruby>、１８<ruby>歳<rt>さい</rt></ruby>と１９<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>平和<rt>へいわ</rt></ruby></a>についてどう<ruby>考<rt>かんが</rt></ruby>えているか<ruby>聞<rt>き</rt></ruby>きました。", 
+  "news_web_movie_uri": "k10011094771_201708091928_201708091930.mp4", 
+  "title_with_ruby": "１８<ruby>歳<rt>さい</rt></ruby>と１９<ruby>歳<rt>さい</rt></ruby>の１４％が「<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>日<rt>ひ</rt></ruby>を<ruby>知<rt>し</rt></ruby>らない」", 
+  "news_id": "k10011094771000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170809/../20170809/K10011094771_1708091928_1708091930_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

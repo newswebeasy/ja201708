@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011095621000.mp3", 
+  "title": "中国の九寨溝でマグニチュード７の地震", 
+  "news_prearranged_time": "2017-08-10 16:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>８日<rt>ようか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>四川省<rt>しせんしょう</rt></ruby>の<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>という<ruby>所<rt>ところ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>マグニチュード</a>７（Ｍ７）の<ruby>地震<rt>じしん</rt></ruby>がありました。", 
+  "news_web_movie_uri": "k10011095621_201708101226_201708101228.mp4", 
+  "title_with_ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>でマグニチュード７の<ruby>地震<rt>じしん</rt></ruby>", 
+  "news_id": "k10011095621000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170810/../20170810/K10011095621_1708101226_1708101229_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

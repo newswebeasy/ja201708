@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011093101000.mp3", 
+  "title": "東京オリンピックの記念にナンバープレートを作る", 
+  "news_prearranged_time": "2017-08-10 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></a>は、<ruby>東京<rt>とうきょう</rt></ruby>で２０２０<ruby>年<rt>ねん</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0004'>パラリンピック</a>を<ruby>開<rt>ひら</rt></ruby>く<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>記念<rt>きねん</rt></ruby></a>に、<ruby>車<rt>くるま</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>ナンバープレート</a>を<ruby>作<rt>つく</rt></ruby>ります。", 
+  "news_web_movie_uri": "k10011093101_201708082110_201708082113.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>記念<rt>きねん</rt></ruby>にナンバープレートを<ruby>作<rt>つく</rt></ruby>る", 
+  "news_id": "k10011093101000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170808/../20170808/K10011093101_1708082110_1708082113_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
