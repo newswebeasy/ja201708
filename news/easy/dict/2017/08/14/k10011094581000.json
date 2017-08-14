@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。",
+          "hyouki": [
+            "小麦"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。",
+          "hyouki": [
+            "先進国"
+          ]
+        }
+      ]
+    }
+  }
+}

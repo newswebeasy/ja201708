@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。",
+          "hyouki": [
+            "水族館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一週間</rb><rt>いっしゅうかん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わり。ウイークエンド。",
+          "hyouki": [
+            "週末"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "地上"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "市長"
+          ]
+        }
+      ]
+    }
+  }
+}

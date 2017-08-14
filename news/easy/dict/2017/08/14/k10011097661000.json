@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１９３９<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>２０<ruby><rb>年</rb><rt>ねん</rt></ruby>）８<ruby><rb>月</rb><rt>がつ</rt></ruby>１５<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第２次世界大戦"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>第一次世界大戦後</rb><rt>だいいちじせかいたいせんご</rt></ruby>にドイツでできた<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。<ruby><rb>党首</rb><rt>とうしゅ</rt></ruby>ヒトラーの<ruby><rb>独裁</rb><rt>どくさい</rt></ruby>のもと、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こしたが、<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>に<ruby><rb>負</rb><rt>ま</rt></ruby>けた。ナチ。",
+          "hyouki": [
+            "ナチス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。",
+          "hyouki": [
+            "助かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。",
+          "hyouki": [
+            "助かる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>にしたり、<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>にしたりする<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>ではどうにもできないめぐり<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。<ruby><rb>運</rb><rt>うん</rt></ruby>。",
+          "hyouki": [
+            "運命"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ]
+    }
+  }
+}

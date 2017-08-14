@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011098411000.mp3", 
+  "title": "全日空の飛行機が羽田空港に戻る　ダクトの一部が壊れていた", 
+  "news_prearranged_time": "2017-08-14 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>１２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>羽田空港<rt>はねだくうこう</rt></ruby>から<ruby>大阪空港<rt>おおさかくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<ruby>全日空<rt>ぜんにっくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が、<ruby>飛<rt>と</rt></ruby>んでから３０<ruby>分<rt>ぷん</rt></ruby>ぐらいあとに<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>りました。", 
+  "news_web_movie_uri": "k10011098411_201708131214_201708131216.mp4", 
+  "title_with_ruby": "<ruby>全日空<rt>ぜんにっくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る　ダクトの<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れていた", 
+  "news_id": "k10011098411000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170813/../20170813/K10011098411_1708131214_1708131216_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

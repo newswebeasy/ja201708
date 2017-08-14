@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。",
+          "hyouki": [
+            "ミサイル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>付</rb><rt>つ</rt></ruby>ける。",
+          "hyouki": [
+            "備える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>準備</rb><rt>じゅんび</rt></ruby>をしておく。",
+          "hyouki": [
+            "備える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>身</rb><rt>み</rt></ruby>につけている。",
+          "hyouki": [
+            "備える"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "発射"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の１１<ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "自衛隊"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。",
+          "hyouki": [
+            "レーダー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ]
+    }
+  }
+}

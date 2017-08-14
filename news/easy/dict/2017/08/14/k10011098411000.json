@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）が<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>をおしつけている<ruby><rb>力</rb><rt>ちから</rt></ruby>。ふつう、ヘクトパスカルで<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。１０１３ヘクトパスカルを１<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>といい、<ruby><rb>水銀柱</rb><rt>すいぎんちゅう</rt></ruby>を７６０ミリメートルの<ruby><rb>高</rb><rt>たか</rt></ruby>さにおし<ruby><rb>上</rb><rt>あ</rt></ruby>げる<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>に<ruby><rb>等</rb><rt>ひと</rt></ruby>しい。",
+          "hyouki": [
+            "気圧"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車輪"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いている、<ruby><rb>丸</rb><rt>まる</rt></ruby>くて<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いもの。つつ。パイプ。",
+          "hyouki": [
+            "管"
+          ]
+        }
+      ]
+    }
+  }
+}
