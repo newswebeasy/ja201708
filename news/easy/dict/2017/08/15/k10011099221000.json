@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。",
+          "hyouki": [
+            "コンピューターウイルス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。",
+          "hyouki": [
+            "セキュリティー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>などの<ruby><rb>題名</rb><rt>だいめい</rt></ruby>。",
+          "hyouki": [
+            "タイトル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>字幕</rb><rt>じまく</rt></ruby>。",
+          "hyouki": [
+            "タイトル"
+          ]
+        },
+        {
+          "def": "スポーツで、<ruby><rb>選手権</rb><rt>せんしゅけん</rt></ruby>。",
+          "hyouki": [
+            "タイトル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>費用</rb><rt>ひよう</rt></ruby>・<ruby><rb>日数</rb><rt>にっすう</rt></ruby>・<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>などを、ざっと<ruby><rb>計算</rb><rt>けいさん</rt></ruby>すること。",
+          "hyouki": [
+            "見積もり"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "かく。かいたもの。",
+          "hyouki": [
+            "書"
+          ]
+        },
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "書"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>。<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "書"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>書類</rb><rt>しょるい</rt></ruby>などをとじこんでおくもの。<ruby><rb>書類</rb><rt>しょるい</rt></ruby>ばさみ。",
+          "hyouki": [
+            "ファイル"
+          ]
+        },
+        {
+          "def": "コンピューターであつかう<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>画像</rb><rt>がぞう</rt></ruby>などのデータ。",
+          "hyouki": [
+            "ファイル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書類</rb><rt>しょるい</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>りぬきなどを<ruby><rb>整理</rb><rt>せいり</rt></ruby>して、とじこむこと。また、とじこんだもの。",
+          "hyouki": [
+            "ファイル"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。",
+          "hyouki": [
+            "ソフトウエア"
+          ]
+        }
+      ]
+    }
+  }
+}

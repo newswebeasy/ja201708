@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011098591000.mp3", 
+  "title": "お年寄りがマージャンや健康の相談ができるスーパー", 
+  "news_prearranged_time": "2017-08-15 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>スーパーなどの<ruby>店<rt>みせ</rt></ruby>は、お<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>年寄<rt>としよ</rt></ruby>り</a>にたくさん<ruby>来<rt>き</rt></ruby>てほしいと<ruby>考<rt>かんが</rt></ruby>えています。", 
+  "news_web_movie_uri": "k10011098591_201708131919_201708131929.mp4", 
+  "title_with_ruby": "お<ruby>年寄<rt>としよ</rt></ruby>りがマージャンや<ruby>健康<rt>けんこう</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>ができるスーパー", 
+  "news_id": "k10011098591000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170813/../20170813/K10011098591_1708131730_1708131751_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

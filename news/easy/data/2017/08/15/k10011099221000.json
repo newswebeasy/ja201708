@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011099221000.mp3", 
+  "title": "「長い休みのあとはコンピューターのウイルスに気をつけて」", 
+  "news_prearranged_time": "2017-08-15 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>夏休<rt>なつやす</rt></ruby>みのあとなどに<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会社<rt>かいしゃ</rt></ruby>のパソコンを<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0001'>メール</a>を<ruby>開<rt>ひら</rt></ruby>くと、コンピューターに<a href='javascript:void(0)' class='dicWin' id='id-0000'>ウイルス</a>が<ruby>入<rt>はい</rt></ruby>ってしまうことがあります。", 
+  "news_web_movie_uri": "k10011099221_201708141607_201708141612.mp4", 
+  "title_with_ruby": "「<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みのあとはコンピューターのウイルスに<ruby>気<rt>き</rt></ruby>をつけて」", 
+  "news_id": "k10011099221000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170814/../20170814/K10011099221_1708141432_1708141450_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
