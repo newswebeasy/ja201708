@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。",
+          "hyouki": [
+            "関東地方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。",
+          "hyouki": [
+            "東北地方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "市場"
+          ]
+        },
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。",
+          "hyouki": [
+            "市場"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>はこい<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>で、<ruby><rb>根</rb><rt>ね</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>い。ゆでたりいためたりして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "ほうれんそう"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>夏</rb><rt>なつ</rt></ruby>にむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>実</rb><rt>み</rt></ruby>は、こいむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>で、つけ<ruby><rb>物</rb><rt>もの</rt></ruby>などにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。なすび。",
+          "hyouki": [
+            "茄子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>の<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>がなる。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やサラダにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "胡瓜"
+          ]
+        }
+      ]
+    }
+  }
+}

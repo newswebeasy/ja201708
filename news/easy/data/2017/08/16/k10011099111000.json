@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011099111000.mp3", 
+  "title": "岐阜県白川村　夏の成人式で２０歳のお祝いをする", 
+  "news_prearranged_time": "2017-08-16 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>町<rt>まち</rt></ruby>や<ruby>村<rt>むら</rt></ruby>では、１<ruby>月<rt>がつ</rt></ruby>に<ruby>成人式<rt>せいじんしき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>って<ruby>２０歳<rt>はたち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちのお<ruby>祝<rt>いわ</rt></ruby>いをしています。", 
+  "news_web_movie_uri": "k10011099111_201708141219_201708141219.mp4", 
+  "title_with_ruby": "<ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>白川村<rt>しらかわむら</rt></ruby>　<ruby>夏<rt>なつ</rt></ruby>の<ruby>成人式<rt>せいじんしき</rt></ruby>で<ruby>２０歳<rt>はたち</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いをする", 
+  "news_id": "k10011099111000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170814/../20170814/K10011099111_1708141155_1708141156_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
