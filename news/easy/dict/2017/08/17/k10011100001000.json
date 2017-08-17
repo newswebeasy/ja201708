@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>などにある）つり<ruby><rb>鐘</rb><rt>がね</rt></ruby>。または、その<ruby><rb>音</rb><rt>おと</rt></ruby>。",
+          "hyouki": [
+            "鐘"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ]
+    }
+  }
+}

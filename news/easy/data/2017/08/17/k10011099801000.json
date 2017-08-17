@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011099801000.mp3", 
+  "title": "スルメイカが北海道の北の海でたくさんとれている", 
+  "news_prearranged_time": "2017-08-17 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>ではスルメイカという<a href='javascript:void(0)' class='dicWin' id='id-0001'>イカ</a>をよく<ruby>食<rt>た</rt></ruby>べますが、<ruby>最近<rt>さいきん</rt></ruby>はあまり<a href='javascript:void(0)' class='dicWin' id='id-0000'>とれ</a>なくなっています。", 
+  "news_web_movie_uri": "k10011099801_201708150624_201708150625.mp4", 
+  "title_with_ruby": "スルメイカが<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でたくさんとれている", 
+  "news_id": "k10011099801000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170815/../20170815/K10011099801_1708142231_1708142246_01_04.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011101671000.mp3", 
+  "title": "南アジアで雨がたくさん降って２００人以上が亡くなる", 
+  "news_prearranged_time": "2017-08-17 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>ネパールなど<ruby>南<rt>みなみ</rt></ruby>アジアの<ruby>国<rt>くに</rt></ruby>では、<ruby>先週<rt>せんしゅう</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>被害<rt>ひがい</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>ています。", 
+  "news_web_movie_uri": "k10011101671_201708161713_201708161714.mp4", 
+  "title_with_ruby": "<ruby>南<rt>みなみ</rt></ruby>アジアで<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って２００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011101671000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170816/../20170816/K10011101671_1708161713_1708161714_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

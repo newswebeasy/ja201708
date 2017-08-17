@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。スルメイカ・ヤリイカ・ホタルイカなど。<ruby><rb>胴</rb><rt>どう</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いふくろの<ruby><rb>形</rb><rt>かたち</rt></ruby>で、１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>ている。<ruby><rb>敵</rb><rt>てき</rt></ruby>にあうと、すみをはいてにげる。",
+          "hyouki": [
+            "烏賊"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ]
+    }
+  }
+}
