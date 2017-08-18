@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011101981000.mp3", 
+  "title": "宮城県と福島県　晴れた日が少なくて稲の病気が心配", 
+  "news_prearranged_time": "2017-08-18 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>東北地方<rt>とうほくちほう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>太平洋<rt>たいへいよう</rt></ruby></a><ruby>側<rt>がわ</rt></ruby>などでは７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>曇<rt>くも</rt></ruby>りや<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>太陽<rt>たいよう</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>ている<ruby>時間<rt>じかん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっています。", 
+  "news_web_movie_uri": "k10011101981_201708170519_201708170520.mp4", 
+  "title_with_ruby": "<ruby>宮城県<rt>みやぎけん</rt></ruby>と<ruby>福島県<rt>ふくしまけん</rt></ruby>　<ruby>晴<rt>は</rt></ruby>れた<ruby>日<rt>ひ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて<ruby>稲<rt>いね</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>", 
+  "news_id": "k10011101981000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170817/../20170817/K10011101981_1708162220_1708170403_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

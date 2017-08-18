@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011102991000.mp3", 
+  "title": "スペイン　車が突っ込むテロで１３人が亡くなる", 
+  "news_prearranged_time": "2017-08-18 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>スペインのバルセロナで１７<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>観光<rt>かんこう</rt></ruby></a>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>など<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいた<ruby>道<rt>みち</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>み</a>ました。", 
+  "news_web_movie_uri": "k10011102991_201708180919_201708180923.mp4", 
+  "title_with_ruby": "スペイン　<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>むテロで１３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011102991000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170818/../20170818/K10011102991_1708180919_1708180924_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
