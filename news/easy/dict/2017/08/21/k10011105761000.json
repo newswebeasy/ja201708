@@ -1,0 +1,180 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>南</rb><rt>みなみ</rt></ruby>と<ruby><rb>西</rb><rt>にし</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。<ruby><rb>西南</rb><rt>せいなん</rt></ruby>。",
+          "hyouki": [
+            "南西"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "犯人"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国民</rb><rt>こくみん</rt></ruby>であるという<ruby><rb>身分</rb><rt>みぶん</rt></ruby>・<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "国籍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>がその<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>属</rb><rt>ぞく</rt></ruby>していること。",
+          "hyouki": [
+            "国籍"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>青年</rb><rt>せいねん</rt></ruby>。わこうど。",
+          "hyouki": [
+            "若者"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。",
+          "hyouki": [
+            "指導"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>王</rb><rt>おう</rt></ruby>。",
+          "hyouki": [
+            "国王"
+          ]
+        }
+      ]
+    }
+  }
+}

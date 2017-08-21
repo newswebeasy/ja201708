@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>の<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>急</rb><rt>きゅう</rt></ruby>な<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りやカーブのあるレールの<ruby><rb>上</rb><rt>うえ</rt></ruby>を<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>走</rb><rt>はし</rt></ruby>る、<ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>。",
+          "hyouki": [
+            "ジェットコースター"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。",
+          "hyouki": [
+            "テーマパーク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>くようにする。<ruby><rb>向</rb><rt>む</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>ざす。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "ふり<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "向ける"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。",
+          "hyouki": [
+            "降ろす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。",
+          "hyouki": [
+            "理解"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。",
+          "hyouki": [
+            "理解"
+          ]
+        }
+      ]
+    }
+  }
+}

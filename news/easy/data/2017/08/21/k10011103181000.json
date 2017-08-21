@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011103181000.mp3", 
+  "title": "マララさん　今年の秋にオックスフォード大学に入学する", 
+  "news_prearranged_time": "2017-08-21 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>ノーベル<ruby>賞<rt>しょう</rt></ruby></a>をもらったマララ・ユスフザイさんは１７<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>にイギリスのオックスフォード<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>するとツイッター（Ｔｗｉｔｔｅｒ）に<ruby>書<rt>か</rt></ruby>きました。", 
+  "news_web_movie_uri": "k10011103181_201708181012_201708181015.mp4", 
+  "title_with_ruby": "マララさん　<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>にオックスフォード<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>する", 
+  "news_id": "k10011103181000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170818/../20170818/K10011103181_1708180956_1708181002_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

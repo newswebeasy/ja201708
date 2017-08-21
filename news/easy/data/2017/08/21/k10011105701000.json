@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011105701000.mp3", 
+  "title": "大阪のＵＳＪで客が乗ったままジェットコースターが止まる", 
+  "news_prearranged_time": "2017-08-21 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>にある<a href='javascript:void(0)' class='dicWin' id='id-0001'>テーマパーク</a>の「ユニバーサル・スタジオ・ジャパン（ＵＳＪ）」には、<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んでいるように<ruby>体<rt>からだ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>向<rt>む</rt></ruby>け</a>て<ruby>乗<rt>の</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0000'>ジェットコースター</a>があります。", 
+  "news_web_movie_uri": "k10011105701_201708201924_201708201927.mp4", 
+  "title_with_ruby": "<ruby>大阪<rt>おおさか</rt></ruby>のＵＳＪで<ruby>客<rt>きゃく</rt></ruby>が<ruby>乗<rt>の</rt></ruby>ったままジェットコースターが<ruby>止<rt>と</rt></ruby>まる", 
+  "news_id": "k10011105701000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170820/../20170820/K10011105701_1708201840_1708201841_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
