@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011104821000.mp3", 
+  "title": "埼玉県　いちばん重いすいかを決めるイベント", 
+  "news_prearranged_time": "2017-08-22 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>桶川市<rt>おけがわし</rt></ruby>で、<ruby>大<rt>おお</rt></ruby>きく<ruby>育<rt>そだ</rt></ruby>てた<a href='javascript:void(0)' class='dicWin' id='id-0000'>すいか</a>を<ruby>集<rt>あつ</rt></ruby>めて、どれがいちばん<ruby>重<rt>おも</rt></ruby>いかを<ruby>決<rt>き</rt></ruby>める<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>がありました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>　いちばん<ruby>重<rt>おも</rt></ruby>いすいかを<ruby>決<rt>き</rt></ruby>めるイベント", 
+  "news_id": "k10011104821000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170819/../20170819/K10011104821_1708191550_1708191552_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

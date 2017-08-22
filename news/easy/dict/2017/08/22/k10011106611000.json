@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などを<ruby><rb>積</rb><rt>つ</rt></ruby>んで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>船</rb><rt>ふね</rt></ruby>。<ruby><rb>油送船</rb><rt>ゆそうせん</rt></ruby>。",
+          "hyouki": [
+            "タンカー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>・フィリピン・ボルネオ・インドシナ<ruby><rb>半島</rb><rt>はんとう</rt></ruby>などに<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "南シナ海"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。",
+          "hyouki": [
+            "確かめる"
+          ]
+        }
+      ]
+    }
+  }
+}

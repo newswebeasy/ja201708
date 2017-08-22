@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で、<ruby><rb>一年間</rb><rt>いちねんかん</rt></ruby>を<ruby><rb>二</rb><rt>ふた</rt></ruby>つか<ruby><rb>三</rb><rt>みっ</rt></ruby>つに<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>期間</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "学期"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>の<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "校舎"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>運動場</rb><rt>うんどうじょう</rt></ruby>。<ruby><rb>競技場</rb><rt>きょうぎじょう</rt></ruby>。グランド。",
+          "hyouki": [
+            "グラウンド"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>学年</rb><rt>がくねん</rt></ruby>や<ruby><rb>学期</rb><rt>がっき</rt></ruby>が<ruby><rb>始</rb><rt>はじ</rt></ruby>まる<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>式</rb><rt>しき</rt></ruby>。",
+          "hyouki": [
+            "始業式"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "うまく。<ruby><rb>適当</rb><rt>てきとう</rt></ruby>に。",
+          "hyouki": [
+            "よろしく"
+          ]
+        },
+        {
+          "def": "これからのことをたのむときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。",
+          "hyouki": [
+            "よろしく"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ]
+    }
+  }
+}

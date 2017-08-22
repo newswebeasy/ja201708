@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ]
+    }
+  }
+}
