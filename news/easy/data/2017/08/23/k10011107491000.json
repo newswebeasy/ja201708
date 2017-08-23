@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011107491000.mp3", 
+  "title": "暑い季節は食中毒に気をつけて", 
+  "news_prearranged_time": "2017-08-23 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby>と<ruby>群馬県<rt>ぐんまけん</rt></ruby>にある３つの<ruby>店<rt>みせ</rt></ruby>でポテトサラダを<ruby>買<rt>か</rt></ruby>って<ruby>食<rt>た</rt></ruby>べた１４<ruby>人<rt>にん</rt></ruby>が、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>下痢<rt>げり</rt></ruby></a>をしたりおなかが<ruby>痛<rt>いた</rt></ruby>くなったりしました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>は<ruby>食中毒<rt>しょくちゅうどく</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて", 
+  "news_id": "k10011107491000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170822/../20170822/K10011107491_1708221801_1708221807_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

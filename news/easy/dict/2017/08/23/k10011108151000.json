@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "兵器"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ]
+    }
+  }
+}

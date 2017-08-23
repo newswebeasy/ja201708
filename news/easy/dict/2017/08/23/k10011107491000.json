@@ -1,0 +1,174 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ばいきんがついたり、<ruby><rb>毒</rb><rt>どく</rt></ruby>のある<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>食</rb><rt>た</rt></ruby>べたり<ruby><rb>飲</rb><rt>の</rt></ruby>んだりして<ruby><rb>病気</rb><rt>びょうき</rt></ruby>になること。<ruby><rb>食</rb><rt>しょく</rt></ruby>あたり。",
+          "hyouki": [
+            "食中毒"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。",
+          "hyouki": [
+            "下痢"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。",
+          "hyouki": [
+            "菌"
+          ]
+        },
+        {
+          "def": "カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "菌"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ブタの<ruby><rb>肉</rb><rt>にく</rt></ruby>を<ruby><rb>塩</rb><rt>しお</rt></ruby>づけにして、けむりでいぶした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ハム"
+          ]
+        },
+        {
+          "def": "アマチュア（しろうと）の、<ruby><rb>無線通信</rb><rt>むせんつうしん</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ハム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。",
+          "hyouki": [
+            "りんご"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "にたり、<ruby><rb>焼</rb><rt>や</rt></ruby>いたり、<ruby><rb>干</rb><rt>ほ</rt></ruby>したりしてない、そのままのもの。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えず、そのままじかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>でないようす。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えてないようす。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "じかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>なま</rt></ruby>ビールのこと。",
+          "hyouki": [
+            "生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>半端</rb><rt>はんぱ</rt></ruby>で、はっきりしないようす。",
+          "hyouki": [
+            "生"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ]
+    }
+  }
+}

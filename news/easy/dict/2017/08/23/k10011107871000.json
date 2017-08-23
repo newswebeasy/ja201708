@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "とき。きっかけ。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "はたらき。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "機"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>などが<ruby><rb>同</rb><rt>おな</rt></ruby>じものの<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいほうであること。",
+          "hyouki": [
+            "小型"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ジェットエンジンで<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>。",
+          "hyouki": [
+            "ジェット機"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>などのエネルギーを<ruby><rb>得</rb><rt>え</rt></ruby>るもの。まき・<ruby><rb>炭</rb><rt>すみ</rt></ruby>・<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>・ガスなど。",
+          "hyouki": [
+            "燃料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

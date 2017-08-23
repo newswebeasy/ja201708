@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011108151000.mp3", 
+  "title": "日本の高校生が国連の人に「核兵器をなくしてほしい」", 
+  "news_prearranged_time": "2017-08-23 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>今<rt>いま</rt></ruby>、スイスにある<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>国連<rt>こくれん</rt></ruby></a>のヨーロッパ<ruby>本部<rt>ほんぶ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>兵器<rt>へいき</rt></ruby></a>などを<ruby>少<rt>すく</rt></ruby>なくするために<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10011108151_201708231110_201708231111.mp4", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>国連<rt>こくれん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に「<ruby>核兵器<rt>かくへいき</rt></ruby>をなくしてほしい」", 
+  "news_id": "k10011108151000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170823/../20170823/K10011108151_1708230644_1708230645_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>にさかんになった、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>だけで<ruby><rb>演</rb><rt>えん</rt></ruby>じる。",
+          "hyouki": [
+            "歌舞伎"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・テレビなどで、<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>演</rb><rt>えん</rt></ruby>じる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。",
+          "hyouki": [
+            "俳優"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しい。",
+          "hyouki": [
+            "劇"
+          ]
+        },
+        {
+          "def": "しばい。ドラマ。",
+          "hyouki": [
+            "劇"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "表現"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        }
+      ]
+    }
+  }
+}

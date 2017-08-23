@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011106891000.mp3", 
+  "title": "日本の歌舞伎とインドの踊りで２つの国が交流", 
+  "news_prearranged_time": "2017-08-23 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>インドのニューデリーにある<ruby>日本<rt>にっぽん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>歌舞伎<rt>かぶき</rt></ruby></a>とインドのカタカリという<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せる<a href='javascript:void(0)' class='dicWin' id='id-0002'>イベント</a>がありました。", 
+  "news_web_movie_uri": "k10011106891_201708221505_201708221506.mp4", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>歌舞伎<rt>かぶき</rt></ruby>とインドの<ruby>踊<rt>おど</rt></ruby>りで２つの<ruby>国<rt>くに</rt></ruby>が<ruby>交流<rt>こうりゅう</rt></ruby>", 
+  "news_id": "k10011106891000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170822/../20170822/K10011106891_1708220811_1708220923_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
