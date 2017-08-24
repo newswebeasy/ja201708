@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "めすが<ruby><rb>人</rb><rt>ひと</rt></ruby>などの<ruby><rb>血</rb><rt>ち</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う、<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。アカイエカ・ハマダラカなど。<ruby><rb>幼虫</rb><rt>ようちゅう</rt></ruby>はぼうふら。<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになる<ruby><rb>菌</rb><rt>きん</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶことがある。",
+          "hyouki": [
+            "蚊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "かおりのよい<ruby><rb>草</rb><rt>くさ</rt></ruby>や<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>の<ruby><rb>粉</rb><rt>こな</rt></ruby>を、<ruby><rb>線</rb><rt>せん</rt></ruby>のように<ruby><rb>細</rb><rt>ほそ</rt></ruby>く<ruby><rb>練</rb><rt>ね</rt></ruby>り<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>仏壇</rb><rt>ぶつだん</rt></ruby>などでたく。",
+          "hyouki": [
+            "線香"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われているけもの。ずんぐり<ruby><rb>太</rb><rt>ふと</rt></ruby>っている。<ruby><rb>肉</rb><rt>にく</rt></ruby>は<ruby><rb>食</rb><rt>た</rt></ruby>べられ、<ruby><rb>皮</rb><rt>かわ</rt></ruby>も<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "豚"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>土</rb><rt>つち</rt></ruby>を<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>陶器</rb><rt>とうき</rt></ruby>や<ruby><rb>磁器</rb><rt>じき</rt></ruby>など。",
+          "hyouki": [
+            "焼き物"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>などを、<ruby><rb>火</rb><rt>ひ</rt></ruby>で<ruby><rb>焼</rb><rt>や</rt></ruby>いた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "焼き物"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。",
+          "hyouki": [
+            "パンダ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。",
+          "hyouki": [
+            "パンダ"
+          ]
+        }
+      ]
+    }
+  }
+}
