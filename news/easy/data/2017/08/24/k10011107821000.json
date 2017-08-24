@@ -11,7 +11,7 @@
   "title_with_ruby": "<ruby>蚊<rt>か</rt></ruby>が<ruby>来<rt>こ</rt></ruby>ないようにする<ruby>線香<rt>せんこう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる「<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>」の<ruby>展覧会<rt>てんらんかい</rt></ruby>", 
   "news_id": "k10011107821000", 
   "has_news_easy_movie": false, 
-  "has_news_web_movie": false, 
+  "has_news_web_movie": true, 
   "top_display_flag": true, 
   "top_priority_number": "4", 
   "has_news_web_image": false, 
