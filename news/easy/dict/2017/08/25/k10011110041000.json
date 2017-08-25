@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をおしつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>水圧</rb><rt>すいあつ</rt></ruby>という。",
+          "hyouki": [
+            "圧力"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>くはたらきかけること。",
+          "hyouki": [
+            "圧力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。",
+          "hyouki": [
+            "確かめる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>西部</rb><rt>せいぶ</rt></ruby>、マリアナ<ruby><rb>諸島</rb><rt>しょとう</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>の<ruby><rb>海底</rb><rt>かいてい</rt></ruby>にある<ruby><rb>溝</rb><rt>みぞ</rt></ruby>。<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>深</rb><rt>ふか</rt></ruby>さ<ruby><rb>一万</rb><rt>いちまん</rt></ruby>メートル<ruby><rb>以上</rb><rt>いじょう</rt></ruby>）がある。",
+          "hyouki": [
+            "マリアナ海溝"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "降ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。",
+          "hyouki": [
+            "降ろす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。",
+          "hyouki": [
+            "映る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。",
+          "hyouki": [
+            "映る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ]
+    }
+  }
+}

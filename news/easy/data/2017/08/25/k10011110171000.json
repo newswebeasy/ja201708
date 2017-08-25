@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011110171000.mp3", 
+  "title": "宇宙飛行士の金井さん「訓練も準備も予定どおりです」", 
+  "news_prearranged_time": "2017-08-25 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんは、<ruby>日本人<rt>にっぽんじん</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby></a>です。", 
+  "news_web_movie_uri": "k10011110171_201708241934_201708241938.mp4", 
+  "title_with_ruby": "<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>金井<rt>かない</rt></ruby>さん「<ruby>訓練<rt>くんれん</rt></ruby>も<ruby>準備<rt>じゅんび</rt></ruby>も<ruby>予定<rt>よてい</rt></ruby>どおりです」", 
+  "news_id": "k10011110171000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170824/../20170824/K10011110171_1708241841_1708241842_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

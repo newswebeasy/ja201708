@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011110041000.mp3", 
+  "title": "海の深さ８１７８ｍの所を泳ぐ魚をカメラで撮る", 
+  "news_prearranged_time": "2017-08-25 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では<ruby>水<rt>みず</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>圧力<rt>あつりょく</rt></ruby></a>が<ruby>強<rt>つよ</rt></ruby>いため、<ruby>魚<rt>さかな</rt></ruby>がいるのは<ruby>深<rt>ふか</rt></ruby>さ８２００ｍまでだと<ruby>考<rt>かんが</rt></ruby>えられています。", 
+  "news_web_movie_uri": "k10011110041_201708241724_201708241725.mp4", 
+  "title_with_ruby": "<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さ８１７８ｍの<ruby>所<rt>ところ</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>ぐ<ruby>魚<rt>さかな</rt></ruby>をカメラで<ruby>撮<rt>と</rt></ruby>る", 
+  "news_id": "k10011110041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170824/../20170824/K10011110041_1708241724_1708241725_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
