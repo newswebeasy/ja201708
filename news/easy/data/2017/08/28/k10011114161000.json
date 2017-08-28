@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011114161000.mp3", 
+  "title": "雨が続いた秋田県　「大曲の花火」で美しい花火が上がる", 
+  "news_prearranged_time": "2017-08-28 16:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>秋田県<rt>あきたけん</rt></ruby><ruby>大仙市<rt>だいせんし</rt></ruby>の<ruby>雄物川<rt>おものがわ</rt></ruby>で２６<ruby>日<rt>にち</rt></ruby>、「<ruby>大曲<rt>おおまがり</rt></ruby>の<ruby>花火<rt>はなび</rt></ruby>」が<ruby>開<rt>ひら</rt></ruby>かれました。", 
+  "news_web_movie_uri": "k10011114161_201708270808_201708270811.mp4", 
+  "title_with_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いた<ruby>秋田県<rt>あきたけん</rt></ruby>　「<ruby>大曲<rt>おおまがり</rt></ruby>の<ruby>花火<rt>はなび</rt></ruby>」で<ruby>美<rt>うつく</rt></ruby>しい<ruby>花火<rt>はなび</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる", 
+  "news_id": "k10011114161000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170827/../20170827/K10011114161_1708270808_1708270811_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

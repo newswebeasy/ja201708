@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011114911000.mp3", 
+  "title": "卓球のワールドツアーで１４歳の張本選手が優勝する", 
+  "news_prearranged_time": "2017-08-28 16:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>卓球<rt>たっきゅう</rt></ruby></a>のワールドツアーの<ruby>試合<rt>しあい</rt></ruby>が２７<ruby>日<rt>にち</rt></ruby>までチェコであって、<ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選手<rt>せんしゅ</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>活躍<rt>かつやく</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>のワールドツアーで１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する", 
+  "news_id": "k10011114911000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170827/../20170827/K10011114911_1708280939_1708280941_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

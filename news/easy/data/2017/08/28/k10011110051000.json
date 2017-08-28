@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011110051000.mp3", 
+  "title": "家にいなくてもスマートフォンで洗濯や掃除などができる", 
+  "news_prearranged_time": "2017-08-28 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>洗濯機<rt>せんたくき</rt></ruby>や<ruby>掃除機<rt>そうじき</rt></ruby>などをインターネットに<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>接続<rt>せつぞく</rt></ruby></a>して、<ruby>家<rt>いえ</rt></ruby>にいなくてもスマートフォンで<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>家事<rt>かじ</rt></ruby></a>ができる<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>製品<rt>せいひん</rt></ruby></a>が<ruby>増<rt>ふ</rt></ruby>えています。", 
+  "news_web_movie_uri": "k10011110051_201708241925_201708241926.mp4", 
+  "title_with_ruby": "<ruby>家<rt>いえ</rt></ruby>にいなくてもスマートフォンで<ruby>洗濯<rt>せんたく</rt></ruby>や<ruby>掃除<rt>そうじ</rt></ruby>などができる", 
+  "news_id": "k10011110051000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170824/../20170824/K10011110051_1708241925_1708241926_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
