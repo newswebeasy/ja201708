@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011115061000.mp3", 
+  "title": "バドミントンの世界選手権で奥原選手が金メダルを取る", 
+  "news_prearranged_time": "2017-08-29 16:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>イギリスで<a href='javascript:void(0)' class='dicWin' id='id-0000'>バドミントン</a>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>大会<rt>たいかい</rt></ruby></a>があって、２７<ruby>日<rt>にち</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>女子<rt>じょし</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0006'>シングルス</a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>金<rt>きん</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0003'>メダル</a>を<ruby>決<rt>き</rt></ruby>める<ruby>試合<rt>しあい</rt></ruby>がありました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "バドミントンの<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>で<ruby>奥原<rt>おくはら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る", 
+  "news_id": "k10011115061000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170828/../20170828/K10011115061_1708280938_1708280942_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

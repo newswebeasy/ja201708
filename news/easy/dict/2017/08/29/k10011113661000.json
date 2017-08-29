@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。",
+          "hyouki": [
+            "満足"
+          ]
+        },
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。",
+          "hyouki": [
+            "満足"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "収入"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>上</rb><rt>うえ</rt></ruby>での<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>や、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "政策"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てを<ruby><rb>受</rb><rt>う</rt></ruby>けて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがなどを<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "医療"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "（<ruby><rb>国</rb><rt>くに</rt></ruby>などから）<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>いくらと<ruby><rb>決</rb><rt>き</rt></ruby>まって<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>るお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "年金"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>のぐあい。",
+          "hyouki": [
+            "景気"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>金</rb><rt>かね</rt></ruby><ruby><rb>回</rb><rt>まわ</rt></ruby>りのぐあい。",
+          "hyouki": [
+            "景気"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。",
+          "hyouki": [
+            "景気"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

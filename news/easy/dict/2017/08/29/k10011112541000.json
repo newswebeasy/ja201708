@@ -1,0 +1,184 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>に<ruby><rb>昔</rb><rt>むかし</rt></ruby>からある、<ruby><rb>長歌</rb><rt>ちょうか</rt></ruby>や<ruby><rb>短歌</rb><rt>たんか</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>短歌</rb><rt>たんか</rt></ruby>のこと。",
+          "hyouki": [
+            "和歌"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>歴史的</rb><rt>れきしてき</rt></ruby>なできごとや<ruby><rb>建物</rb><rt>たてもの</rt></ruby>のあった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "遺跡"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>図書館</rb><rt>としょかん</rt></ruby>・<ruby><rb>博物館</rb><rt>はくぶつかん</rt></ruby>・<ruby><rb>美術館</rb><rt>びじゅつかん</rt></ruby>など、「<ruby><rb>館</rb><rt>かん</rt></ruby>」のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "館長"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ることができる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "つながりがなくなる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>が、なくなる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "こわれる。<ruby><rb>破</rb><rt>やぶ</rt></ruby>れる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>がよくて、てきぱき<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>へそれる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りない。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "…することができる。",
+          "hyouki": [
+            "切れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まだ<ruby><rb>知</rb><rt>し</rt></ruby>られていないものを、<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>見</rb><rt>み</rt></ruby>つけ<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "発見"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。",
+          "hyouki": [
+            "地方"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ]
+    }
+  }
+}
