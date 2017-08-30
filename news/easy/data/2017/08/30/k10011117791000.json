@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011117791000.mp3", 
+  "title": "格安スマホには「Ｊアラート」が届かなかった", 
+  "news_prearranged_time": "2017-08-30 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が２９<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発射<rt>はっしゃ</rt></ruby></a>した<a href='javascript:void(0)' class='dicWin' id='id-0002'>ミサイル</a>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>太平洋<rt>たいへいよう</rt></ruby></a>に<ruby>落<rt>お</rt></ruby>ちました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>格安<rt>かくやす</rt></ruby>スマホには「Ｊアラート」が<ruby>届<rt>とど</rt></ruby>かなかった", 
+  "news_id": "k10011117791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170829/../20170829/K10011117791_1708291725_1708291727_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

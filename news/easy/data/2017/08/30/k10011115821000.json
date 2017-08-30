@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011115821000.mp3", 
+  "title": "トヨタ「車が急に走って起こる事故を少なくしたい」", 
+  "news_prearranged_time": "2017-08-30 11:30:00", 
+  "news_easy_image_uri": "k10011115821000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>お<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>年寄<rt>としよ</rt></ruby>り</a>などが、<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めるときに<a href='javascript:void(0)' class='dicWin' id='id-0003'>ブレーキ</a>と<a href='javascript:void(0)' class='dicWin' id='id-0004'>アクセル</a>を<ruby>間違<rt>まちが</rt></ruby>えて<ruby>踏<rt>ふ</rt></ruby>んだため、<ruby>車<rt>くるま</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>急<rt>きゅう</rt></ruby>に</a><ruby>走<rt>はし</rt></ruby>って<ruby>事故<rt>じこ</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>起<rt>お</rt></ruby>こる</a>ことが<ruby>多<rt>おお</rt></ruby>くなっています。", 
+  "news_web_movie_uri": "k10011115821_201708281813_201708281814.mp4", 
+  "title_with_ruby": "トヨタ「<ruby>車<rt>くるま</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>走<rt>はし</rt></ruby>って<ruby>起<rt>お</rt></ruby>こる<ruby>事故<rt>じこ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしたい」", 
+  "news_id": "k10011115821000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}
