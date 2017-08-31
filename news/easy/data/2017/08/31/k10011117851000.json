@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011117851000.mp3", 
+  "title": "「金星の赤道の上では秒速９０mのとても強い風」", 
+  "news_prearranged_time": "2017-08-31 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>宇宙<rt>うちゅう</rt></ruby></a>の<ruby>研究<rt>けんきゅう</rt></ruby>などをしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>金星<rt>きんせい</rt></ruby></a>を<ruby>調<rt>しら</rt></ruby>べるために<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>探査<rt>たんさ</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>機<rt>き</rt></ruby></a>の「あかつき」を<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</a>ました。", 
+  "news_web_movie_uri": "k10011117851_201708291936_201708291938.mp4", 
+  "title_with_ruby": "「<ruby>金星<rt>きんせい</rt></ruby>の<ruby>赤道<rt>せきどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>秒速<rt>びょうそく</rt></ruby>９０mのとても<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>」", 
+  "news_id": "k10011117851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170829/../20170829/K10011117851_1708291818_1708291828_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
